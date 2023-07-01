@@ -1,0 +1,24 @@
+# Datos personales
+
+- Nombre: Christian Paul Lescano Jumbo
+- Edad: 21 años
+- Correo: christian.lescano@est.ikiam.edu.ec
+- Numero de telefono: 0969354328
+
+# Caracteristicas del computador
+
+- Nombre del dispositivo	Christian-Lescano
+- Procesador	Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz   2.90 GHz
+- RAM instalada	8,00 GB
+- Tipo de sistema	Sistema operativo de 64 bits, procesador x64
+
+# Versión de Python/Anaconda y de cada uno de los módulos/paquetes y utilizados
+
+- Version de Anaconda 6.4.12
+
+## Modulos y paquetes
+
+- popsimulate
+- numpy 
+- random
+- glucotransferace.py
